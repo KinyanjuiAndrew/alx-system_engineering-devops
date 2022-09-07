@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 head -3 iacta | tail +3
+=======
+head -n 3 iacta | tail -n 1
+>>>>>>> b9a3aaf213e587b212d459ddf3eeff16a43f3805
